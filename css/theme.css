@@ -1,0 +1,98 @@
+/*tablet*/
+@media all and (min-width: 961px) {
+    #a{
+        background-color: rgb(138, 197, 21)
+    }
+    #b{
+        background-color: wheat;
+    } 
+    #h{
+        background-color:rgb(212, 212, 65);
+    }
+    #g{
+        background-color: hotpink;
+    }
+    #f{
+        background-color:rgba(147, 204, 147, 0.774);
+    }
+    #e{
+        background-color:greenyellow;
+    }
+    #c{
+        background-color: turquoise;
+    }
+    #d{
+        background-color: blueviolet;
+    }
+    #i{
+        background-color: #ffff00
+    }
+}
+ 
+/*desktop*/
+@media all and (min-width: 768px) and (max-width: 960px){
+    #a{
+        background-color: rgb(144, 173, 84)
+    }
+    #b{
+        background-color: rgb(189, 175, 151);
+    } 
+    #h{
+        background-color:rgb(212, 212, 65);
+    }
+    #g{
+        background-color: rgb(184, 130, 157);
+    }
+    #f{
+        background-color:rgba(18, 95, 18, 0.774);
+    }
+    #e{
+        background-color:rgb(201, 255, 121);
+    }
+    #c{
+        background-color: rgba(137, 177, 173, 0.281);
+    }
+    #d{
+        background-color: rgba(146, 123, 168, 0.377);
+    }
+    #i{
+        background-color: #ffff0065
+    }
+}
+    
+/* mobile */
+@media all and  (min-width: 0px)and (max-width: 767px){
+    #a{
+        background-color: rgb(95, 134, 17)
+    }
+    #b{
+        background-color: rgb(143, 133, 114);
+    } 
+    #h{
+            background-color:rgb(212, 212, 65);
+    }
+    #g{
+        background-color: rgb(148, 64, 106);
+    }
+    #f{
+        background-color:rgba(88, 185, 88, 0.774);
+    }
+    #e{
+        background-color:rgba(137, 177, 78, 0.712);
+    }
+    #c{
+        background-color: rgba(21, 245, 222, 0.555);
+    }
+    #d{
+        background-color: rgb(96, 70, 119);
+    }
+    #i{
+        background-color: #616100
+    }
+}        
+    
+    
+    
+    
+    
+    

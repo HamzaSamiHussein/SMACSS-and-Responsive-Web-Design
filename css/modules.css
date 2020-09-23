@@ -1,0 +1,36 @@
+/*tablet*/
+@media all and (min-width: 961px) {
+    #main > div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 30px;
+    }
+}
+    
+/*desktop*/
+@media all and (min-width: 768px) and (max-width: 960px){
+    #main > div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 30px;
+    }
+}
+    
+/*mobile*/
+@media all and  (min-width: 0px)and (max-width: 767px){
+    #main > div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 30px;
+    }
+}
+        
+    
+    
+    
+    
+    
+    
