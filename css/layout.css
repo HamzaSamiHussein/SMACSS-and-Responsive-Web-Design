@@ -126,9 +126,9 @@
             height: 250px;
         }
        #i{
+           grid-column: 1 / 3; 
            width: 100%;
-           height: 480px;
-            grid-column: 1 / -1 ;
+           height: 80px;
        }
         
       

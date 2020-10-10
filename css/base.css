@@ -46,22 +46,7 @@
     }
 }
     
-    /* mobile */
-    @media all and  (min-width: 0px)and (max-width: 767px){
-        #main{
-            margin: 0 auto;
-            display: grid; 
-            grid-template-columns: repeat(2, auto);
-            grid-template-rows: repeat(8, 75px 150px 125px 125px 240px 240px 240px 240px 1tr );
-        }
-        #main{
-            width: 480px;
-            height: 800px;
-        }
-        #main {
-            font: size 50px;
-        }
-}
+  
         
 /* mobile */
 @media all and  (min-width: 0px)and (max-width: 767px){
